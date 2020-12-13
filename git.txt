@@ -1,0 +1,18 @@
+git init
+git add .
+git commit -m "first commit"
+
+para criar
+criar no git e pegar a url
+git remote add origin https://github.com/ricardomoreirausp/empreendedorismo.git
+git push origin master
+
+para puxar a 1º vez (pasta vazia)
+git clone https://github.com/ricardomoreirausp/empreendedorismo.git empreendedorismo
+
+para puxar depois
+git pull https://github.com/ricardomoreirausp/empreendedorismo.git
+
+https://github.com/ricardomoreirausp/empreendedorismo
+
+
